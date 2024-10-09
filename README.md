@@ -1,6 +1,6 @@
 # HFSS Python Automation Projects
 
-## 1. [Quaterwave Transformer Impedence Matching HFSS Python Automation](https://github.com/AbhayNathani/hfss_python_automation/quaterwave_transformer_impedence_matching_hfss_python_automation)
+## 1. [Quaterwave Transformer Impedence Matching HFSS Python Automation](https://github.com/AbhayNathani/hfss_python_automation/tree/main/quaterwave_transformer_impedence_matching_hfss_python_automation)
 
 
 ---
